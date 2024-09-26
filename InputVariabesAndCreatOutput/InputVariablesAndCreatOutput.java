@@ -9,7 +9,7 @@ public class InputVariablesAndCreatOutput {
 		int y=Integer.parseInt(JOptionPane.showInputDialog(null,"What is current year"));
 		int ans=y-x;
 		//print
-		JOptionPane.showMessageDialog (null,ans);
+		JOptionPane.showMessageDialog (null, "You were born in "+ans);
     
 }
 }
