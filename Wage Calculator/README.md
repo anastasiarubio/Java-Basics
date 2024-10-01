@@ -1,0 +1,1 @@
+This is an application that takes in a user's monthly wage and weekly hours and calculates how much they make per year and per hour

@@ -1,0 +1,1 @@
+This is an application for a farmer that takes in a number of eggs that has been laid. The application will calculate and output how many 6-egg boxes the farmer needs to purchase to hold the eggs, and how many eggs will be left over. 
